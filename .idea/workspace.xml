@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68132d94-1a30-4f3d-bd51-426fc0973336" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baitap_lab9-2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="68132d94-1a30-4f3d-bd51-426fc0973336" name="Changes" comment="baitap lab 9 bai 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +27,7 @@
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/ntpph/IdeaProjects/spboot1",
     "node.js.detected.package.eslint": "true",
@@ -75,11 +68,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1692888654307</updated>
-      <workItem from="1692888655387" duration="544000" />
+      <workItem from="1692888655387" duration="1206000" />
     </task>
+    <task id="LOCAL-00001" summary="baitap lab 9 bai 2">
+      <option name="closed" value="true" />
+      <created>1692889462827</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692889462827</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="baitap lab 9 bai 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="baitap lab 9 bai 2" />
   </component>
 </project>
